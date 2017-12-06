@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>https://jboss-outreach.github.io/blog/2017/sachinrammoorthyblog</loc>
+      
+        <lastmod>2017-12-06T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+        <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://jboss-outreach.github.io/blog/2017/blog-post</loc>
+      
+        <lastmod>2017-12-06T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+        <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://jboss-outreach.github.io/blog/2017/contributing-to-open-source</loc>
+      
+        <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+        <priority>0.5</priority>
+    </url>
+    
+  
+  
+    
+  
+    
+    <url>
+      <loc>https://jboss-outreach.github.io/blog/about/</loc>
+      
+        <lastmod>2017-12-06T17:13:18+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+        <priority>0.3</priority>
+    </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+</urlset>

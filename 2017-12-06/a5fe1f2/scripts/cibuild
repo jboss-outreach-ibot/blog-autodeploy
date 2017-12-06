@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+bundle exec jekyll build
+
+sha=`git rev-parse --short HEAD`
+base=`date +"%Y-%m-%d"`
+item=`echo "$base/$sha"`
+echo $item
+
+cd ..
+git clone https://github.com/jboss-outreach-ibot/blog-autodeploy.git
+
+mkdir -p blog-autodeploy/$item
+cp -a blog.jboss-outreach.org/_site/. blog-autodeploy/$item/
+
+cd blog-autodeploy
+git config --local user.name "jboss-outreach-ibot"
+git config --local user.email "anuj.garg@codingblocks.com"
+git add .
+git commit -m "Add commit for autodeploy"
+git push --quiet "https://${BOT_USER}:${BOT_TOKEN}@github.com/jboss-outreach-ibot/blog-autodeploy.git" master
