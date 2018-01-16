@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <atom:link href="https://jboss-outreach.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://jboss-outreach.github.io/blog/</link>
+    <description></description>
+    <pubDate>Tue, 16 Jan 2018 14:41:27 +0000</pubDate>
+    
+      <item>
+        <title>GCI Experience Ft Jboss</title>
+        <link>https://jboss-outreach.github.io/blog/2018/GCI-Experience-Ft_JBoss</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/GCI-Experience-Ft_JBoss</guid>
+        <description>&lt;p&gt;Introduction&lt;/p&gt;
+
+&lt;p&gt;Hello everyone, I’m Zixin, an enthusiastic 17 year old from Singapore at Google Code-In! When I first encountered coding and interacted with Python, I was explicably drawn to its ability to not only solve problems, but more importantly link ideas from the creator to the computer and actually create something unique. 
+It was magic. 
+It intrigued me more than all my other subjects and I have since embarked on various projects, hackathons, and involved myself in conferences and helping the community. Thus I am participating in GCI 2017-18 to do all of the above and expand my interests and expertise in programming and open source projects.&lt;/p&gt;
+
+&lt;p&gt;Experience&lt;/p&gt;
+
+&lt;p&gt;It was a very interesting and humbling experience to be able to contribute to such large scale open source projects and be guided by mentors along the way. At first glances the task seemed daunting but I started with easier ones like building and running a local node server hosted by JBoss - which was surprisingly well documented for a task with alright difficulty!&lt;/p&gt;
+
+&lt;p&gt;The mentors at JBoss are friendly and quick to respond and the experience of GCI was a great one. :) I would definitely recommend my juniors to participate and learn skills like forking a repository, hosting a local node server, and submitting your own bug fixes to a software open source code! :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Google Code-In: The Coding Extravganza</title>
+        <link>https://jboss-outreach.github.io/blog/2018/GCIexperience-divyansh</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/GCIexperience-divyansh</guid>
+        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;So first, before sharing my experience, let me introduce you to Google-Code In. So, Google Code-In is an annual contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, over 4500 students from 99 countries have completed work in the contest and this number is increasing every year.&lt;/p&gt;
+
+&lt;p&gt;The quality of tasks given to the students during the entire event is quite appropriate. The level of tasks keep increasing gradually. There are tasks for everybody, along with the coding tasks, there are documentation, outreach, user interface tasks as well.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-experience&quot;&gt;My Experience&lt;/h1&gt;
+
+&lt;p&gt;This was my first year participating in Code-In, during the entire event, I decided to work for the &lt;strong&gt;JBoss Community&lt;/strong&gt; and I have totally loved the experience. This event has introduced to me proper Open Source Software development, I am amazed by seeing so many people come up and contribute to different projects.&lt;/p&gt;
+
+&lt;p&gt;The tasks offered to us by the JBoss Community were more focused on giving us the learning curve and introduce us to new technologies, I found them to be very interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So now, let me walk you through how my one and a half month went:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s 10th of December, it’s the dreaded last happy day before the start of my Term 2 (semester end) exams. I wake up, get freshened and open my laptop. Now this may seem confusing to my classmates who would think that I am passing my time just one day before the start of my exams. But little do they know that I am in an environment which would teach me lots and lots of new things which would help me in the future.&lt;/p&gt;
+
+&lt;p&gt;Fast forward to 6 days, the next day I have my math exam and I am still on my laptop, I hear my mother shouting “kal maths exam hai, laptop band karo aur padhne baith jao” (“you have your math exam tomorrow, shut down your laptop and go study”) at that point of time, my mind thinks to obey what my mother just said, but my heart, disagreeing to this thought, being so addicted to this beautiful environment, refuses to leave it.
+Working in this environment became a habit for me, I remember one incident, during my Computer Sciences exam, I finished it before the time limit and had around 20mins to spare. I took an extra sheet and utilised my time by making mockup icon for the compressor head android app (which was one of the tasks)&lt;/p&gt;
+
+&lt;p&gt;This is what a magnificent platform like Google Code In does to you. It makes you feel that excitement, makes you crave for that notification which says &lt;strong&gt;“Your Task got approved by your mentor”&lt;/strong&gt;. It makes you beat the competition and come on top. I can’t even describe that feeling which I got when I saw my name on the leaderboard, it was just amazing.&lt;/p&gt;
+
+&lt;p&gt;I tried to balance the number of tasks I did with their categories. Initially as I was not properly accustomed to the technologies required but with time, tried to grasp them and how they worked. Inspired by this, I made an unofficial moto for Google Code in which wash &lt;strong&gt;“Learn what you fear”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;During the course of this event, I worked multiple JBoss projects like Lead Management Android app which is an app for the businesses to manage their potential leads and increase their productivity. The certifier project which would allow any organisation head to generate certificates of any event, the compressor head android app which lets user compress images before downloading them. I also helped build our official website for GCI 2017. I enjoyed a lot in contributing to these.&lt;/p&gt;
+
+&lt;p&gt;One of the main objectives of this event is to make you &lt;strong&gt;connect&lt;/strong&gt; with the online open source community and I feel that this is easily the best part about it. There were participants from all around the globe, I made a lot of friends, throughout the event, we helped each other, sometimes talked about how each of our countries differed from each other from giving school holidays :P to even the cultures. All of the mentors at my  Even the mentors were very friendly to us. They helped us however small the problem was. Sometimes, they also asked us about our school lives and how we can improve ourselves to become better in the future. So, socialising with others was definitely the best &lt;em&gt;value&lt;/em&gt; which I learnt.&lt;/p&gt;
+
+&lt;p&gt;The second thing I learnt was to &lt;strong&gt;never give up&lt;/strong&gt; on trying until you get what you want. Earlier, I found some tasks to be difficult and feared them, but later I learned how not to fear them and then I started to intentionally take up those tasks and took time to learn about them. This principle, I also started applying in my day to day life and it helped me a lot&lt;/p&gt;
+
+&lt;p&gt;I am writing this with just 2 days to go before this event ends and it feels like it just started yesterday. I am already feeling &lt;strong&gt;nostalgic&lt;/strong&gt; and sad that this amazing experience is going to end. During the course of this event, open source has influenced me a lot, I will definitely continue to make more and more contributions to The JBoss Community and rest of the open source world.&lt;/p&gt;
+
+&lt;p&gt;I thoroughly enjoyed my experience with the JBoss Community. Everything about it, the mentors, the participating students is just amazing, there is definitely a special bond which exists between us. :)&lt;/p&gt;
+
+&lt;p&gt;So, before ending this blog, I would like to thank all the mentors who gave their best in helping us. Also, a big thanks to Google for providing such an amazing platform to us youngsters, A huge round of applause for everyone including the students for making this event a suceess!&lt;/p&gt;
+
+&lt;p&gt;Wrapping it up,  I would say that this one and a half month were the best I could have utilised in 2017 and in the start of 2018. :)&lt;/p&gt;
+
+&lt;p&gt;Thank You&lt;/p&gt;
+
+&lt;p&gt;~ Divyansh Kulshreshtha&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>GCI's Amazing Experience</title>
+        <link>https://jboss-outreach.github.io/blog/2018/gcis-experience</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/gcis-experience</guid>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I am Lokshiv Gupta from Jalandhar, India studying in 8th grade. I am a beginner in the field of Computer Science. I am currently working on web development using HTML, CSS and Javascript.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-experience&quot;&gt;My Experience&lt;/h2&gt;
+&lt;p&gt;This is the first time I am participating in a competition organised by Google and I am trying to work on as many tasks as possible. One thing that I learned is that accuracy is more important than quantity. Writing efficient code is always more important than writing more code.&lt;/p&gt;
+
+&lt;p&gt;I really enjoyed working on the problems and spending time to learn new things. In the future, I would definitely like to participate in Google Code - In, as well as other contests organised by Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kudos to the Google Code - In team!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Red Hat Dev Event: IT modernization through automation</title>
+        <link>https://jboss-outreach.github.io/blog/2018/RedhatDevEvent</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/RedhatDevEvent</guid>
+        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The webinar was on held on January 12th 2018 and was on the topic &lt;strong&gt;Automation for network infrastructures&lt;/strong&gt;, it was hosted by Gerald Dykeman who works as a Domain Architect at Ansible. The webinar was mainly focused on the principle of Hero As Code and why we need a proper network automation system and how Ansible helps us in achieving that.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-hero-as-code&quot;&gt;What is Hero As Code?&lt;/h2&gt;
+&lt;p&gt;So, let’s imagine a person, say Bob. Bob is the one who designs, builds, fixes and maintains the network all on his own. So Bob is the &lt;strong&gt;Hero&lt;/strong&gt; for us. But, Heroes are in high demand, Bob knows a lot and can work on any project, but the problem with this is Bob is called everywhere! He is not able to manage so many clients together. So here comes the principle of Hero As Code, in this theoretically, Bob and the entire infrastructure is converted into code. All of his basic (and some complex) functions are written into the codebase. This is somewhat what serves as the base of network automation.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-primitive-network-structures&quot;&gt;The Primitive Network Structures&lt;/h2&gt;
+&lt;p&gt;We are in 2018, and people still configure VLANs on their respective networks manually, people are still hesitant to go towards the route of automation because they are mostly worried that the process might go down at any point of time and then there won’t be any human power to handle those errors.
+In primitive network structures, the team or individual maintaining it is usually the main component. This methodology is not exactly fool proof as there can be a number of human error and sometimes even a small mistake can cause the entire network to go down.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-automation&quot;&gt;Why automation?&lt;/h2&gt;
+&lt;p&gt;So this takes us to the very important question, Why automation of networks? How is it any beneficial from what we are using now?
+So, few of the advantages of network automation are: 
+Backups and restore can be easily automated.
+Ensures proper working of networks without or hardly any use of manpower. 
+The process of  Plan → Develop → Test → Deploy → Operate can be executed a lot faster.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-ansible&quot;&gt;What is Ansible&lt;/h2&gt;
+&lt;p&gt;So, &lt;strong&gt;Ansible&lt;/strong&gt; is basically a software company owned by Red Hat Inc.  that automates provisioning, configuration management, and application deployment. Ansible makes it easy to scale automation, manage complex deployments and thus it increases the overall productivity of the project.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-ansible&quot;&gt;Why Ansible?&lt;/h2&gt;
+&lt;p&gt;The next question that may arise in your mind is why Ansible? So, Ansible is simple, no special coding skills are required to work with it, it’s very powerful, and is very secure. Currently it supports 33 networking platforms and over 460+ networking modules (modules from Cisco, Juniper. Dell and many more!)
+Ansible works via small individual modules and these can be used according to the requirements for example the cisco module can be used only for some parts of the network and the rest can be configured automatically, Most of the configuration is done in the &lt;strong&gt;yaml&lt;/strong&gt; file. The Ansible tower supports different APIs . The tower takes in the API calls and configures the server accordingly. 
+It also has integrations with popular services like Splunk, VMware, Atlassian, Gitlab and almost all of Red Hat products.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-raised&quot;&gt;Questions Raised&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Q.1 Why is automation the prefered way in the future?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ans. Network automation should be preferred because it has several benefits for the user, its helps reduce the workload as, you are still doing the same stuff that you were doing earlier, but now you can repeat that and iterate on that. This makes the whole process efficient.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q.2 How is the principle of Hero as code and Ansible going to affect the network engineers?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ans, The engineers have problems in scaling, for every fault that occurs, it is not possible for the administrator to go and fix them. Basically, if there is something that you repeat, should be automated and Ansible does just that, it kicks away the manual tasks and allows you to do things that matter to your business.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-experience&quot;&gt;My Experience&lt;/h2&gt;
+&lt;p&gt;This was my first professional developer webinar.I was confused about how this event would turn out for me as although I was familiar with network architectures, automation and related terminologies, I did not have a deep knowledge of any of them but the webinar was very well organised and the speaker explained each and every topic beautifully. It introduced me to network automation and how it will be beneficial for everyone in the future. I got to know about Ansible and how it would help us reach almost complete automation of our network infrastructures.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>My 2018 GCI Experience</title>
+        <link>https://jboss-outreach.github.io/blog/2018/My-2017-GCI-Experience</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/My-2017-GCI-Experience</guid>
+        <description>&lt;p&gt;2018 is the 2nd and final year of my participation in Google Code-in, an annual global competition held by Google for teens aged 13-17.&lt;/p&gt;
+
+&lt;p&gt;This 2 years were indeed eye-opening as it gave me an opportunity to step into the Tech World, having a taste of the different tasks- Outreaching, Coding, Researching etc.&lt;/p&gt;
+
+&lt;p&gt;For my final year, I hope to learn about new and upcoming software and technologies; and indeed, I did. Google Code-in liaises with several top-notch technology companies, providing me a platform to discover and learn more about these very companies and their communities. One such example is the JBoss Community.&lt;/p&gt;
+
+&lt;p&gt;JBoss Community is a community of open source projects, hosting projects of various programming languages such as Java, Ruby, PHP, Node, etc. As I have only started learning Python, I hope to branch out to various programming languages as time goes by. JBoss Community could serve as a great platform for my self-tutorial purposes.&lt;/p&gt;
+
+&lt;p&gt;All in all, I would highly recommend everyone- whether you have a tech background or not, to give GCI a go, then pick up skills and knowledge of different communities along the way! 😊&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Transitioning from traditional to cloud-native development.</title>
+        <link>https://jboss-outreach.github.io/blog/2018/jatin-jboss-event</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/jatin-jboss-event</guid>
+        <description>&lt;p&gt;I  attended a webinar by the Red Hat on the topic,  &lt;a href=&quot;https://onlinexperiences.com/Launch/Event.htm?ShowKey=46769&quot;&gt;&lt;strong&gt;Transitioning From Traditional to Cloud-Creative Development With &lt;code class=&quot;highlighter-rouge&quot;&gt;Red Hat OpenShift Application Runtimes&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-was-the-host&quot;&gt;Who was the host?&lt;/h2&gt;
+&lt;p&gt;This webinar was given by &lt;em&gt;Syed Rasheed&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-rhoar&quot;&gt;What Is RHOAR&lt;/h3&gt;
+&lt;p&gt;The main topic of presentation was &lt;code class=&quot;highlighter-rouge&quot;&gt;Red Hat OpenShift Application Runtimes&lt;/code&gt; (RHOAR), which is a collection of &lt;strong&gt;cloud-native&lt;/strong&gt; runtimes for developing Java or JavaScript applications on &lt;code class=&quot;highlighter-rouge&quot;&gt;OpenShift&lt;/code&gt; platform by Red Hat.&lt;/p&gt;
+
+&lt;p&gt;It provides portability across multiple cloud infrastructures, allowing the developer to use microservices, containers, and DevOps automation.&lt;/p&gt;
+
+&lt;h2 id=&quot;knowledge-gained&quot;&gt;Knowledge gained&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I gained information about many Application runtimes and projects like Vert.x toolkit, Wildfly Swarm etc.
+I learned a lot about the transition, microservices and DevOps automation
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;question-that-i-asked--&quot;&gt;Question that I asked :-&lt;/h2&gt;
+
+&lt;p&gt;Q. Can any java app be converted to Wildfly Swarm ?&lt;/p&gt;
+
+&lt;p&gt;A. Yes most of the java apps can be converted to use Wildfly Swarm and this transition is possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;experience&quot;&gt;Experience&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I was not new but quite beginner to all these things and thanks to Syed Rasheed for making me understand it.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>JBoss Dev Event - Cloud-Cative Development With RHOAR</title>
+        <link>https://jboss-outreach.github.io/blog/2018/anhai-wang</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/anhai-wang</guid>
+        <description>&lt;p&gt;I have just attended a webinar by the Red Hat JBoss Community on the topic,  &lt;strong&gt;Transitioning From Traditional to Cloud-Creative Development With &lt;code class=&quot;highlighter-rouge&quot;&gt;Red Hat OpenShift Application Runtimes&lt;/code&gt;&lt;/strong&gt;. The link was &lt;a href=&quot;https://onlinexperiences.com/Launch/Event.htm?ShowKey=46769&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-was-it-from&quot;&gt;Who Was It From&lt;/h3&gt;
+&lt;p&gt;This webinar was given by &lt;em&gt;Syed Rasheed&lt;/em&gt;, the Solution Marketing Manager of Red Hat.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-rhoar&quot;&gt;What Is RHOAR&lt;/h3&gt;
+&lt;p&gt;During the presentation, Rasheed introduced the &lt;code class=&quot;highlighter-rouge&quot;&gt;Red Hat OpenShift Application Runtimes&lt;/code&gt; (RHOAR), which is a collection of &lt;strong&gt;cloud-native&lt;/strong&gt; runtimes for developing Java or JavaScript applications on &lt;code class=&quot;highlighter-rouge&quot;&gt;OpenShift&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;It provides portability across multiple cloud infrastructures, allowing the developer to use microservices, containers, and DevOps automation.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-did-i-learn&quot;&gt;What Did I Learn&lt;/h3&gt;
+&lt;p&gt;Traditionally, the Monolith Java EE Lifecycle is three months. That basically means that it usually takes up to &lt;strong&gt;three months&lt;/strong&gt; for a simple change in Java or JavaScript Apps to be deployed on a cloud platform.&lt;/p&gt;
+
+&lt;p&gt;That is like, if you changed a single line of your App, and you want all the users to get an update, that takes 3 months.&lt;/p&gt;
+
+&lt;p&gt;However, with RHOAR, companies can build and deploy all the Java or JavaScript Apps on OpenShift with the simpler development process, flexible strategic as well as the automation from development to deployment that provide speed with standardization.&lt;/p&gt;
+
+&lt;p&gt;Moreover, RHOAR allows the developers to use microservices to speed up the software release cycles, which are compatible with numerous Java runtimes including JBoss EAP, Vert.X, WildFly Swarm, Node.js, Tomcat and so on.&lt;/p&gt;
+
+&lt;p&gt;Therefore, with the help of Red Hat OpenShift Application Runtimes, the App release cycle can be optimized from 3  months down to 16 minutes. As Rasheed concludes, &lt;em&gt;“The cloud software deployment is approaching a zero-day event.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;overall&quot;&gt;Overall,&lt;/h3&gt;
+&lt;p&gt;The whole concept of Cloud Native Development and Application Runtimes was actually quite strange to me as I had never encountered such terminology before.&lt;/p&gt;
+
+&lt;p&gt;Though attending this webinar, I’m able to gain a basic understanding of what is going on in the process of deploying a Java or JavaScript App, how it used to be sophisticated and what can Red Hat do with RHOAR to help greatly improve that.&lt;/p&gt;
+
+&lt;p&gt;In general, I am glad and thankful for being able to attend such an event for the first time of my life, which indeed expanded my knowledge.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Virtualization : Multitask like a Boss.</title>
+        <link>https://jboss-outreach.github.io/blog/2018/sidhya</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/sidhya</guid>
+        <description>&lt;p&gt;I attended a RedHat (parent company of JBoss) webinar on virtualization. The main objective was to introduce various businesses and students to the &lt;strong&gt;Virtualization&lt;/strong&gt; &amp;amp; RedHat’s flagship Virtualization software. The webinar was hosted by &lt;strong&gt;Gunnar Hellekson&lt;/strong&gt; &amp;amp; &lt;strong&gt;Rex Backman&lt;/strong&gt;. The webinar focused on how can virtualization be beneficial for companies and businesses.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-virtualization-&quot;&gt;What is virtualization ?&lt;/h2&gt;
+
+&lt;p&gt;Virtualization is the process of creating a software-based (or virtual) representation of something rather than a physical one. Virtualization can apply to applications, servers, storage, and networks and is the one of the most effective ways to reduce IT expenses while boosting efficiency and agility for all size businesses. Most commonly, it refers to running multiple operating systems on a computer system simultaneously. Virtualization will remain an integral part of the modern datacenter for the next several years. According to the Uptime Institute, up to 65% of workloads are still on-premise. While virtualized workloads may give way to the cloud and other emerging technologies, it still puts virtualization in focus as a technology that needs to be modernized.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages-of-virtualization--&quot;&gt;Advantages of virtualization :-&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can be useful websites and web app builds &amp;amp; tests&lt;/li&gt;
+  &lt;li&gt;Can be easily transferred to cloud&lt;/li&gt;
+  &lt;li&gt;Reduced infrastructure costs&lt;/li&gt;
+  &lt;li&gt;Reduced electronic costs&lt;/li&gt;
+  &lt;li&gt;Can improve performance&lt;/li&gt;
+  &lt;li&gt;Easy migration from one Virtual machine to other&lt;/li&gt;
+  &lt;li&gt;Improved security&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After discussing the above points briefly, the topic of discussion shifted from just virtualization to comparison of various virtualization applications. Various applications like VMware were compared with RedHat virtualization applications.&lt;/p&gt;
+
+&lt;h2 id=&quot;question-that-i-asked--&quot;&gt;Question that I asked :-&lt;/h2&gt;
+
+&lt;p&gt;Q. How can students be introduced to Virtualization ?&lt;/p&gt;
+
+&lt;p&gt;A. Students can checkout &lt;strong&gt;oVirt&lt;/strong&gt;, a RedHat opensource initiative targeting virtualization being introduced to the small businesses and students. Also RedHat opensource forums can help for the same.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-i-use-virtualization--&quot;&gt;How I use virtualization :-&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’ve a MacBook Pro and I use &lt;strong&gt;Oracle’s VirtualBox&lt;/strong&gt; to run &lt;strong&gt;Kali Linux&lt;/strong&gt; for learning basic penetration testing and ethical hacking.&lt;/li&gt;
+  &lt;li&gt;Most commonly for Mobile application development, I use &lt;strong&gt;Android Studio&lt;/strong&gt; (for Android) &amp;amp; &lt;strong&gt;Xcode&lt;/strong&gt; (for iOS) in-built emulators.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>JBoss Developer Event on Virtualization</title>
+        <link>https://jboss-outreach.github.io/blog/2018/sachin-virtualization</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/sachin-virtualization</guid>
+        <description>&lt;p&gt;I anxiously waited for the event to start. It had been quite some time of constant refreshing of the JBoss event page where one could only login and join the discussion 15 minutes before the event started. I was full of curiosity. It was going to my first developer event.&lt;/p&gt;
+
+&lt;p&gt;Soon, a notice popped up -  &lt;code class=&quot;highlighter-rouge&quot;&gt;the Event is about to begin, please wait a few minutes&lt;/code&gt;. That really got my heart racing! I realize that it is a trivial thing to be excited about, but I just could not stop myself!&lt;/p&gt;
+
+&lt;p&gt;Soon enough, the webinar, &lt;code class=&quot;highlighter-rouge&quot;&gt;Virtualization as a path to an optimized, modern datacenter&lt;/code&gt; started. The presenters were full of enthusiasm and I could tell that they knew everything there was to know within the subject. I was a little fazed in the beginning of the webinar, since this was actually the second conference in a series of 3. It did not help that the volume was a little low and microphone not so clear in the beginning. However, I asked a few questions, and the presenters were extremely helpful in their answers.&lt;/p&gt;
+
+&lt;p&gt;I attended the webinar with very little knowledge of what Virtualization actually meant. I learnt that it optimized digital transmission, was at the peak of innovation in this modern era, and increased the competitive capability of any company. It essentially modernizes infrastructure and applications, and is a key enabler in helping us on our digital transmission journey. As the presenter explained to me in relatively simple words, virtualization means to create a virtual version of a device or resource, like a server or a network where the framework divides the resource into one or more execution environments.&lt;/p&gt;
+
+&lt;p&gt;Most people actually think virtualization is being adopted everywhere and this period has now rolled over, but in reality, this is not the case at all. RedHat conducted surveys where they found out that virtualization is actually on the rise! In fact, it is expected to rise by over 20% in deployment over the next 2 years.&lt;/p&gt;
+
+&lt;p&gt;RedHat is at the forefront of virtualization, and the fact that the Director of Project Management actually spoke for the majority of the time gave me a very good impression of the company.&lt;/p&gt;
+
+&lt;p&gt;I learnt a lot about virtualization today, which reduces infrastructure costs and improves performance too, among other benefits. I was also introduced to a plethora of new architectures, and to the steps to actually implement RedHat’s program.&lt;/p&gt;
+
+&lt;p&gt;My first developer conference was as awesome and informative as I expected it to be. It was a great experience, and I look forward to attending another event soon!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>My GCI Experience</title>
+        <link>https://jboss-outreach.github.io/blog/2018/My-GCI-experience</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/My-GCI-experience</guid>
+        <description>&lt;h2 id=&quot;google-code-in&quot;&gt;Google Code-In&lt;/h2&gt;
+&lt;p&gt;Google Code-in is a competitive event organised by Google which exposes young and budding developers to open source organisations, in a task based environment. In this way, they learn different ways to solve real life problems for open source organisations. This gives people much-needed experience that they will need to deal with situations they may face during their jobs or other later ventures. Famous open source organisations like Ubuntu, Wikimedia, and Apertium have come together to create tasks that will help the participants, and the open source organisations that are helping in this event.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-ive-learnt&quot;&gt;What I’ve learnt:&lt;/h2&gt;
+&lt;p&gt;This is the primary time I’m collaborating in Google code in 2017, so way it’s been fruitful. I learned regarding Musicbrainz, a music data wiki, and  the Metabrainz foundation that maintains it. I actually have learned about the JBoss stretch organization, that has created some attention-grabbing comes sort of Facebook meme generator bot.  i do know a way to use AN IRC consumer, and it’s been terribly useful for human activity with totally different organizations, and receiving feedback regarding my work. One particular factor about Google Code-In is that there are mentors, who are going to be there to tell you if you’re doing something wrong. I actually have learned to gift my work properly, and use many tools within the method. Even within the method of penning this web log post, I actually have learned a way to use Jekyll to come up with web log posts and use markdown to format them.&lt;/p&gt;
+
+&lt;p&gt;I have learned lots and understood however my skills ar applicable within the globe as a result of Google Code-In 2017. I’d wish to impart Google for giving Maine this chance to be told things by determination my very own issues, and other’s issues. I hope to extend the depth of my data, and improve my existing skill set by completing competitions and artistic contests like Google Code-In!
+Thanks to collaborating in GCI, i used to be ready to polish my English and work level supported however I add giant corporations.I gained plenty information|of data|of information} and knowledge in technology. I got accustomed mistreatment disagreeable person, writing in English and checking out info, i.e. operating with documentation (sometimes language, generally an internet site like IBM Bluemix) and Stack Overflow. This contest was conjointly a chance to go away the cave and take a look at your ability
+Thanks to JBoss Comunity, I will exchange experiences and skills with alternative GCI participants.&lt;/p&gt;
+
+&lt;p&gt;I think that Google has done a good job making this competition, because of that several teens have an opportunity for a higher future.
+&lt;strong&gt;I’m definitely participating again! Thanks Jboss!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>open source journey of priyanshu</title>
+        <link>https://jboss-outreach.github.io/blog/2018/open-source-journey-of-priyanshu</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/open-source-journey-of-priyanshu</guid>
+        <description>&lt;p&gt;hi, I am student of jboss community. So I visited coding blocks in Noida and there I sat in a classroom with my brother and after some time our teacher came in, so he start teaching us in a polite way by asking name and telling about coding that coding is used in different ways and in different works like - projects,music,games etc. He also told us about google Code-In that it is easy to learn and making our account in gitter. He also tell us about task to do and awards that we will get.In the break time we went outside and bought chips and cold - drink to eat . Jboss has helped me in learning coding and to know that google is not only a search engine it more than that and google Code - In is platform where I can show my talent and win awards.There were times when I had fun and there were times when I was confused but the journey with jboss is a great memory.The time which I spent with jboss is memory that will cherish forever .MY JOURNEY WITH JBOSS WAS AMAZING !!!!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>open source journey of Anshul Yadav</title>
+        <link>https://jboss-outreach.github.io/blog/2018/open-source-journey-of-Anshul-Yadav</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/open-source-journey-of-Anshul-Yadav</guid>
+        <description>&lt;p&gt;Open source is an opportunity to show what I can do and to help me share about my ideas. Music is an important part of my life.The internet and programmes made by other people help me make my own music. Games is the thing that I adore the most. I would like to make games when I know about how to make them&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Jboss_experience</title>
+        <link>https://jboss-outreach.github.io/blog/2018/jboss_experience</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/jboss_experience</guid>
+        <description>&lt;p&gt;layout: post
+ title: “Share my experience with JBoss developer community”
+ description:
+ headline:
+ modified: 2018-01-01
+ category: personal
+ tags: []
+ feature-img:
+ mathjax:
+ chart:
+ author: ‘Aniol Vicens Lloret’
+ comments: true
+ featured: false&lt;/p&gt;
+
+&lt;h2 id=&quot;share-my-experience-with-jboss-developer-community&quot;&gt;Share my experience with JBoss developer community.&lt;/h2&gt;
+&lt;h3 id=&quot;experience-with-jboss-developer-community-and-with-open-source-projects&quot;&gt;Experience with JBoss developer community and with Open Source Projects.&lt;/h3&gt;
+
+&lt;p&gt;Hi, my name is Aniol, I am a 13-year-old student, and I am participating in the Google Code-In contest. I’m here to talk about my JBoss developer community experience that I have lived since Google Code-in started. JBoss was not one of my main goals to work on. But in the end, I chose it because of the variety of projects that there were and the different amount of tasks that there were.&lt;/p&gt;
+
+&lt;h3 id=&quot;mentors--students&quot;&gt;Mentors &amp;amp; Students&lt;/h3&gt;
+
+&lt;p&gt;In when the mentors, moments are very nice and friendly. Now as for the community (the developers), I have not had too much contact with them but I have spoken with someone through the chat and they seem very kind.&lt;/p&gt;
+
+&lt;h3 id=&quot;open-source-projects&quot;&gt;Open Source Projects&lt;/h3&gt;
+
+&lt;p&gt;Participating in open source projects is very fun if you like to program, a good open source project is Google Code-in, a very fun open source project with prizes that you can easily earn if you are consistent and commit to help.&lt;/p&gt;
+
+&lt;p&gt;This in addition to helping to make known your skills will help you develop your creativity and make more people known.
+You do not necessarily have to contribute programing, you can also do something by contributing ideas or modifying documents.&lt;/p&gt;
+
+&lt;h3 id=&quot;jboss-community-and-open-source-projects&quot;&gt;JBoss Community and Open Source Projects&lt;/h3&gt;
+
+&lt;p&gt;I didn’t have previous experience in a real open source project, and with JBoss Community I started with those, JBoss Community made me release that is the quality what matters not the quantity. I have made a great advance since I started, and that has taken me effort that I never thought I should give to program.&lt;/p&gt;
+
+&lt;h4 id=&quot;try-hard-and-you-will-see-what-you-get&quot;&gt;Try hard and you will see what you get!&lt;/h4&gt;
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Gci_experience_blog</title>
+        <link>https://jboss-outreach.github.io/blog/2018/gci_experience_blog</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2018/gci_experience_blog</guid>
+        <description>&lt;p&gt;layout: post
+ title: “Swastik’s GCI Experience”
+ description:
+ headline:
+ modified: 2018-01-01
+ category: personal
+ tags: []
+ feature-img:
+ mathjax:
+ chart:
+ author: ‘Swastik Das’
+ comments: true
+ featured: false&lt;/p&gt;
+
+&lt;p&gt;##GOOGLE CODE IN&lt;/p&gt;
+
+&lt;p&gt;Google code-in is a world-wide competition held by the folks at Google annually which provides a platform for us to explore new and interesting organizations and also help them! With tasks in all branches of cyber-computing such as: Code, User Interface, Documentation/Training, Quality Assurance and Outreach/Research it is the ultimate competition. It mainly aims at open source.&lt;/p&gt;
+
+&lt;p&gt;##My Google Code In Experience&lt;/p&gt;
+
+&lt;p&gt;I am Swastik Das, a  student of class XI at SAI International School, Bhubaneswar, India.
+I heard about Google Code In from Sampriti Panda who has participated in GCI trice earlier and has also been the Grand prize Winner last year.
+From childhood computer have fascinated me. I love everything related to them let it be gaming, editing stuffs or coding.
+This year I decided to participate in the GCI.
+I chose JBoss Community on reading that it is related to Java.
+I got to learn about many open-source softwares. They are great to work with. You can use them and also modify and upgrade those softwares which is a great thing.
+I learnt how to develop apps, integrate authentication methods, designing webpages and various other stuffs.
+At present I know Java, Javascript, C++, C#, Swift, HTML, CSS and I would love to learn more and master in these programming languages too.
+Before GCI, I had very less knowledge about opensource. I wasn’t aware of the tremendous benefits it gives. But now I love using opensource softwares.&lt;/p&gt;
+
+&lt;p&gt;##Mentors
+The mentors are really good and cooperative.
+They check all our works and also advice us on improving our programming skills and also to rectify to mistakes.
+They are really friendly and never step back in clearing doubts or helping in any other ways.&lt;/p&gt;
+
+&lt;p&gt;#What I have gained till now from GCI&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A t-shirt(After completion of 3 tasks)&lt;/li&gt;
+  &lt;li&gt;A whole lot of knowledge in the field of web page designing and app development&lt;/li&gt;
+  &lt;li&gt;Also got to know about many open source softwares.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##End
+In the end I would conclude this by saying that GCI gave me a nice opportunity to improve my coding skills as well as learn many new things. It also gave me new friends and supporting mentors who ere always there to guide us. Whether I get prize or not, I ll forever remember such valuable experience because learning is more important than winning.&lt;/p&gt;
+
+&lt;p&gt;Thank You&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>MY GOOGLE CODE-IN EXPERIENCE</title>
+        <link>https://jboss-outreach.github.io/blog/2017/MY-GOOGLE-CODE-IN-EXPERIENCE</link>
+        <guid isPermaLink="true">https://jboss-outreach.github.io/blog/2017/MY-GOOGLE-CODE-IN-EXPERIENCE</guid>
+        <description>&lt;h2 id=&quot;my-google-code-in-experience&quot;&gt;MY GOOGLE CODE-IN EXPERIENCE&lt;/h2&gt;
+
+&lt;p&gt;Google code-in is a world-wide competition held by the folks at Google annually which provides a platform for us to explore new and interesting organisations and also help them! With tasks in all branches of cyber-computing such as: Code, User Interface, Documentation/Training, Quality Assurance and Outreach/Research it is the ultimate competition.&lt;/p&gt;
+
+&lt;p&gt;I found about GCI from a friend a year ago but I was too late to join in the fun. Now that I know how epic Google Code-in is, I really regret not being able to participate last year. Nevertheless, this year I have planned to complete as many GCI tasks as I can and not waste this opportunity.&lt;/p&gt;
+
+&lt;p&gt;The mentors are a great addition to the competition. Without them, I probably wouldn’t have any successful submissions. They really do help a lot and narrow the tasks down for us to understand it. No matter how wrong the first draft is or even the tenth draft. They keep on providing their services relentlessly. Their motivational chat-bits also keep us focus and regulate the ginormous enthusiasm.&lt;/p&gt;
+
+&lt;p&gt;The best thing about GCI is that it motivates us to surf the internet and learn to do things previously unheard-of. For example; Forking a Project in GitHub. It was something which I at first hearing about, thought of food but later I understood what it really was and how relevant it is. Never would this be possible had GCI not existed. The JBoss community can help me in this completion by introducing more tasks for me to accomplish so that I reach their leaderboard. It would be a great honour.&lt;/p&gt;
+
+&lt;p&gt;The first task is where the fear lies. After that it becomes your passion as it did for me. I remember my peers bragging about the number of tasks they completed last year and truthfully I was overwhelmed. How could a child of my age complete so many tasks in a world renowned completion I asked myself but now as I am a part of GCI just as much as they are.&lt;/p&gt;
+
+&lt;p&gt;I used to constantly switch tabs between the problem, the procedure and help tabs that the google search engine helpfully provided me. Trying to piece together the solution and deciphering the answer to every problem really makes you feel alive. One after the other, slowly but surely each sub-problem I knocked out of the equation.&lt;/p&gt;
+
+&lt;p&gt;When I completed my first task, I was hocked on to it like an anchor. I was the best experience by far. I had actually accomplished something and in doing so also benefited an actual organisation. That feeling is like no other. Soon I started to hunt for a second and a third. The third meant that I would get a google t-shirt from as a prize. I was psyched! I must admit I wasn’t the fastest to reach so far but I was defiantly determined and disciplined for the task. Day and night, I emptied the internet, disburdening it of its information and piecing together information to finish the task. ASAP!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      </item>
+    
+  </channel>
+</rss>
